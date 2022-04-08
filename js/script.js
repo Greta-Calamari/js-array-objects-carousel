@@ -107,3 +107,15 @@ function slideUp() {
 
 next.addEventListener("click", slideDown);
 prev.addEventListener("click", slideUp);
+
+
+// 1.Dai tre array contenenti:
+//  - una lista ordinata di 5 immagini,
+//  - una lista ordinata dei relativi 5 luoghi e
+//  - una lista di 5 news,
+//  creare un array di oggetti (manualmente)
+// 2. aggiornare il codice con i nuovi valori
+// 3. aggiungere allo slider una timing function per far partire lo slider in automatico (con un bottone per fermarlo)
+// 4. refactoring
+// Bonus:
+// aggiungere un effetto al cambio dell'immagine
